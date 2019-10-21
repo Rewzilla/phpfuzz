@@ -1,3 +1,3 @@
 # phpfuzz
 
-A grammer-based fuzzer for the PHP interpreter
+A grammar-based fuzzer for the PHP interpreter
